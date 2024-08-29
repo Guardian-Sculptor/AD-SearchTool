@@ -103,6 +103,6 @@ function Process-File {
     }
 }
 
-Remove-Item -Path "output_test.csv" -ErrorAction SilentlyContinue
+Remove-Item -Path "Output.csv" -ErrorAction SilentlyContinue
 Process-File -filePath input.txt
 
