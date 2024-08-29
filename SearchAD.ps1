@@ -95,7 +95,7 @@ function Process-File {
             }
             $result = searchAD $line $usecase
             Write-Output $result
-            $result | Export-Csv -Path "output_test.csv" -Append -NoTypeInformation -Force
+            $result | Export-Csv -Path "Output.csv" -Append -NoTypeInformation -Force
         }
         
     } else {
