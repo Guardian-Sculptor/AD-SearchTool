@@ -12,7 +12,7 @@ AD-SearchTool is a collection of PowerShell scripts designed to streamline the p
 
 2.	Clone the Repository:
 
-    •	git clone https://github.com/cyberhub-programmer/AD-SearchTool.git
+    •	git clone https://github.com/Guardian-Sculptor/AD-SearchTool.git
 
 
 3.	Running the Scripts:
